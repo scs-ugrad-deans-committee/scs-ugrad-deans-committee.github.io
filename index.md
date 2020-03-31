@@ -1,4 +1,5 @@
 ---
+title: CMU SCS Dean's Undergraduate Advisory Committee
 layout: default
 ---
 
