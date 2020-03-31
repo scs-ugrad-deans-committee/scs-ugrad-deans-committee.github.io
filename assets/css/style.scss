@@ -1,0 +1,68 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* https://www.cmu.edu/brand/brand-guidelines/web.html */
+
+/* CMU primary colors. */
+$color-primary-cmu-red: rgb(187,0,0);
+$color-primary-gray: rgb(244,244,244);
+$color-primary-dark-gray: rgb(102,102,102);
+
+/* CMU secondary colors. */
+$color-secondary-gold: rgb(170,102,0);
+$color-secondary-teal: rgb(0,102,119);
+$color-secondary-blue: rgb(34,68,119);
+$color-secondary-green: rgb(0,136,85);
+$color-secondary-dark-green: rgb(34,68,51);
+
+/* CMU unlisted colors. */
+$color-link-text: #bb0000;
+$color-link-bottom: #ffaaaa;
+
+
+/* Miscellaneous colors. */
+$color-black: rgb(0,0,0);
+$color-white: rgb(255,255,255);
+
+$font-cmu: 'Open Sans', 'Helvetica', sans-serif;
+
+#main-content {
+  font-family: $font-cmu;
+  h1:before { content: ""; }
+  h1 {
+    color: $color-secondary-gold;
+    font-family: $font-cmu;
+    font-size: 2em;
+  }
+}
+
+a {
+  color: $color-link-text;
+  border-bottom: 1px solid $color-link-bottom;
+}
+
+body {
+  color: $color-primary-dark-gray;
+  font-family: $font-cmu;
+}
+
+aside#sidebar a.button {
+  background: transparent url(../images/github-button.png) 0 0 no-repeat;
+  background-color: $color-secondary-teal;
+  border: 0px;
+  border-radius: 10px;
+  color: $color-white;
+  display: block;
+}
+
+header {
+  background: $color-primary-cmu-red;
+  font-family: $font-cmu;
+  padding-top: 10px;
+  padding-bottom: 10px;
+
+  h1 { color: $color-white; font-size: 1.4em; }
+  h2 { color: $color-white; font-size: 1.2em; }
+}
