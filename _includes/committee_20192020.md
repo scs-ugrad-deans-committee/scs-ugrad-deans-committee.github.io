@@ -8,7 +8,7 @@ The [2019-2020 undergraduate advisory committee](https://scsdean.cs.cmu.edu/advi
 
 **Sophomore**
 - [Amy Li](mailto:azli@andrew.cmu.edu), BSCS
-- [Vandana Subramaniam](mailto:vandanas@andrew.cmu.edu), BSCS
+- [Vandana Subramanian](mailto:vandanas@andrew.cmu.edu), BSCS
 - [Varsha Kumar](mailto:varshak@andrew.cmu.edu), BSCS
 
 **Junior**
