@@ -9,9 +9,8 @@ The SCS Dean's Undergraduate Advisory Committee is a voluntary group of SCS unde
 
 # Documents for the SCS Undergraduate Community
 
-- Undergraduate Advisory Committee Constitution
+- [Undergraduate Advisory Committee Constitution](https://docs.google.com/document/d/14FEsWkNIg-1NB0OP_TTzfLeI3HAxvk9rS-u7fpwBsq0/edit?usp=sharing)
 
 # Meeting Minutes
 
-- Link one
-- Link two
+- [4/23 Meeting with the Dean](https://docs.google.com/document/d/1yrqDCnU_qcGG-6vZGE_kw2z0srSd4xCNATBGA2iWfew/edit?usp=sharing)
